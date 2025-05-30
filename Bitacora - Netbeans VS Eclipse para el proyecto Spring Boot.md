@@ -12,7 +12,7 @@ Descargué **Eclipse JEE 2025-03-R**, optimizado para ARM de 64 bits. La interfa
 
 Luego probé **NetBeans IDE 19**, que soporta Java SE, PHP, HTML y más. Su interfaz es más simple, perfecta para empezar rápido. El editor, con autocompletado y detección de errores en tiempo real, es genial para escribir código limpio. Sin embargo, no tiene soporte nativo para Spring Boot ni Java EE, así que tuve que instalar plugins para Maven y Spring, lo cual fue un poco engorroso. Aunque su ecosistema de plugins (unos 1100) es más estable, consume más memoria en proyectos complejos.
 
-![image-20250529110318151](.\assets\images\image-20250529110318151.png)
+<img src=".\assets\images\image-20250529110318151.png" alt="image-20250529110318151" />
 
 ## Conclusión
 
