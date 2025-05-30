@@ -50,20 +50,20 @@ Este informe detalla el progreso, actividades y resultados obtenidos durante el 
   - Instalacion del IDE y setup inicial (30 min, por que probe que tal funciona en comparacion a NetBeans) -> Ver Bitacora - Netbeans VS Eclipse para el proyecto Spring Boot
 
 
-  <img src="C:\Users\mabarca1\AppData\Roaming\Typora\typora-user-images\image-20250529103556749.png" alt="image-20250529103556749" style="zoom:50%;" />
+  <img src=".\assets\images\image-20250529103556749.png" alt="image-20250529103556749" style="zoom:50%;" />
 
   
 
   ✔️Compatible para mi sistema en arm64.
 
-  ![image-20250529121141600](C:\Users\mabarca1\AppData\Roaming\Typora\typora-user-images\image-20250529121141600.png)
+  ![image-20250529121141600](.\assets\images\image-20250529121141600.png)
 
   * Errores con la instalacion (+10 min):
 
     * "Not all files were found, make sure you have installed the full program".
     * Solucion: Editar este registro en regedit.msc para que permita archivos descomprimidos en rutas extensas
 
-    ![image-20250529112345449](C:\Users\mabarca1\AppData\Roaming\Typora\typora-user-images\image-20250529112345449.png)
+    ![image-20250529112345449](.\assets\images\image-20250529112345449.png)
 
   * Instalación del SQL e IDE (15 min)
 
@@ -71,10 +71,10 @@ Este informe detalla el progreso, actividades y resultados obtenidos durante el 
 
     -  Para mi caso utilize aplicaciones mejores compatibles con mi sistema arm64: MariaDB y DBeaver, los cuales con equivalentes a MySQL y Workbench
 
-​	![image-20250529111202302](C:\Users\mabarca1\AppData\Roaming\Typora\typora-user-images\image-20250529111202302.png)
+​	![image-20250529111202302](.\assets\images\image-20250529111202302.png)
 
 
 
-![image-20250529111439559](C:\Users\mabarca1\AppData\Roaming\Typora\typora-user-images\image-20250529111439559.png)
+![image-20250529111439559](.\assets\images\image-20250529111439559.png)
 
 - [Código fuente del microservicio en progreso: enlace a GitHub pendiente de crear].
