@@ -295,9 +295,9 @@ sudo cp -r lib/* /mnt/lib/
 
 **Captura de Pantalla**:
 
-![image-20250703184345474](C:\Users\mabarca1\AppData\Roaming\Typora\typora-user-images\image-20250703184345474.png)
+![image-20250703184345474](../../assets/images(arch-linux-mar)/image-20250703184345474.png)
 
-![image-20250703184409925](C:\Users\mabarca1\AppData\Roaming\Typora\typora-user-images\image-20250703184409925.png)
+![image-20250703184409925](../../assets/images(arch-linux-mar)/image-20250703184409925.png)
 
 Luego, volví a copiar solo el firmware Qualcomm:
 
@@ -429,6 +429,7 @@ El sistema ahora arranca correctamente en un TTY y, con GNOME, ofrece una interf
 
 **Arranque desde el sistema a traves de GRUB*
 ![video-2](../../assets/images(arch-linux-mar)/VID_20250629_230509.mp4)
+
 <video src="../../assets/images(arch-linux-mar)/VID_20250629_230509.mp4"></video>
 
 *Totalmente funcional desde chroot*
