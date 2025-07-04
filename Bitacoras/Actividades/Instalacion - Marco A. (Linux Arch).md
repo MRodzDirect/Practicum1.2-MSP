@@ -53,7 +53,7 @@ Arranqué desde la USB en vivo de Ubuntu 24.10 y utilicé `fdisk` para particion
    
    **Captura de Pantalla**: 
    
-   ![IMG_20250625_011139](./IMG_20250625_011139.jpg)
+   ![IMG_20250625_011139](../../assets/images(arch-linux-mar)/IMG_20250625_011139.jpg)
    
    ![IMG_20250626_210013](./IMG_20250626_210013.jpg)
 
