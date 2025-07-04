@@ -403,6 +403,7 @@ mkinitcpio -P
 
 **Captura de Pantalla**: 
 
+![video-1](../../assets/images(arch-linux-mar)/VID_20250629_225529.mp4)
 <video src="../../assets/images(arch-linux-mar)/VID_20250629_225529.mp4"></video>
 
 
@@ -427,7 +428,7 @@ El sistema ahora arranca correctamente en un TTY y, con GNOME, ofrece una interf
 **Captura de Pantalla Final**: 
 
 **Arranque desde el sistema a traves de GRUB*
-
+![video-2](../../assets/images(arch-linux-mar)/VID_20250629_230509.mp4)
 <video src="../../assets/images(arch-linux-mar)/VID_20250629_230509.mp4"></video>
 
 *Totalmente funcional desde chroot*
