@@ -55,7 +55,7 @@ Arranqué desde la USB en vivo de Ubuntu 24.10 y utilicé `fdisk` para particion
    
    ![IMG_20250625_011139](../../assets/images(arch-linux-mar)/IMG_20250625_011139.jpg)
    
-   ![IMG_20250626_210013](./IMG_20250626_210013.jpg)
+   ![IMG_20250626_210013](../../assets/images(arch-linux-mar)/IMG_20250626_210013.jpg)
 
 ### 2.2. Configuración de `/etc/fstab`
 Monté las particiones y configuré el archivo `/etc/fstab` para reflejar la estructura del sistema de archivos:
@@ -85,9 +85,9 @@ UUID=3532b18a-53f4-4fe4-8054-283d90b9423d swap swap defaults 0 0
 
 
 
-![IMG_20250624_201333](./IMG_20250624_201333.jpg)
+![IMG_20250624_201333](../../assets/images(arch-linux-mar)/IMG_20250624_201333.jpg)
 
-![IMG_20250624_231524](./IMG_20250624_231524.jpg)
+![IMG_20250624_231524](../../assets/images(arch-linux-mar)/IMG_20250624_231524.jpg)
 
 ---
 
@@ -103,7 +103,7 @@ sudo tar -xvf ArchLinuxARM-aarch64-latest.tar.gz -C /mnt
 
 **Captura de Pantalla**: 
 
-![IMG_20250624_133536](./IMG_20250624_133536.jpg)
+![IMG_20250624_133536](../../assets/images(arch-linux-mar)/IMG_20250624_133536.jpg)
 
 ### 3.2. Configuración Inicial del Sistema
 1. **Montaje de Sistemas de Archivos Virtuales** (hacer en caso no pueda instalar el script ``arch-chroot``, usar esto junto a ``chroot`` normal):
@@ -119,7 +119,7 @@ sudo tar -xvf ArchLinuxARM-aarch64-latest.tar.gz -C /mnt
    
    ⚠️ De lo contrario, al no aplicar lo de arriba cuando solo hacemos `chroot` obtendriamos este **error** entre otros tantos:
    
-   ![IMG_20250619_221856](./2ndSet/IMG_20250619_221856.jpg)
+   ![IMG_20250619_221856](../../assets/images(arch-linux-mar)/2ndSet/IMG_20250619_221856.jpg)
    
 2. **Chroot al Sistema**:
    
@@ -159,15 +159,15 @@ sudo tar -xvf ArchLinuxARM-aarch64-latest.tar.gz -C /mnt
    
    Antes en el chroot:
    
-   ![image-20250703191336243](./image-20250703191336243.png)
+   ![image-20250703191336243](../../assets/images(arch-linux-mar)/image-20250703191336243.png)
    
    Despues:
    
-   ![image-20250703191436537](./image-20250703191436537.png)
+   ![image-20250703191436537](../../assets/images(arch-linux-mar)/image-20250703191436537.png)
    
    *Ejecucion:*
    
-   ![IMG_20250629_203748](./IMG_20250629_203748.jpg)
+   ![IMG_20250629_203748](../../assets/images(arch-linux-mar)/IMG_20250629_203748.jpg)
 
 ---
 
@@ -187,17 +187,17 @@ sudo cp /mnt/iso/casper/initrd /mnt/boot/initrd-ubuntu
 
 **Captura de Pantalla**:
 
-![IMG_20250619_184528](./2ndSet/IMG_20250619_184528.jpg)
+![IMG_20250619_184528](../../assets/images(arch-linux-mar)/2ndSet/IMG_20250619_184528.jpg)
 
-![IMG_20250624_234007](./2ndSet/IMG_20250624_234007.jpg)
+![IMG_20250624_234007](../../assets/images(arch-linux-mar)/2ndSet/IMG_20250624_234007.jpg)
 
 *Imagen del intento fallido*
 
-![IMG_20250626_165302](./IMG_20250626_165302.jpg)
+![IMG_20250626_165302](../../assets/images(arch-linux-mar)/IMG_20250626_165302.jpg)
 
 *Imagen del intento exitoso*
 
-![IMG_20250629_165843](./IMG_20250629_165843.jpg)
+![IMG_20250629_165843](../../assets/images(arch-linux-mar)/IMG_20250629_165843.jpg)
 
 Si se requería un DTB, lo obtuve del repositorio [Linux-on-Snapdragon](https://github.com/Jeremiah-Hawley/Linux-on-Snapdragon) y lo copié a `/mnt/boot/dtbs/`.
 
@@ -214,11 +214,11 @@ sudo cp -r /lib/firmware/qcom/* /mnt/lib/firmware/qcom/
 
 **Captura de Pantalla**:
 
-![IMG_20250619_184541](./2ndSet/IMG_20250619_184541.jpg)
+![IMG_20250619_184541](../../assets/images(arch-linux-mar)/2ndSet/IMG_20250619_184541.jpg)
 
-![image-20250703191739515](./image-20250703191739515.png)
+![image-20250703191739515](../../assets/images(arch-linux-mar)/image-20250703191739515.png)
 
-![IMG_20250619_185658](./2ndSet/IMG_20250619_185658.jpg)
+![IMG_20250619_185658](../../assets/images(arch-linux-mar)/2ndSet/IMG_20250619_185658.jpg)
 
 
 
@@ -236,7 +236,7 @@ grub-install --target=arm64-efi --efi-directory=/efi --bootloader-id=GRUB
 
 *Instalacion* *grub-install*
 
-![IMG_20250619_221633](./2ndSet/IMG_20250619_221633.jpg)
+![IMG_20250619_221633](../../assets/images(arch-linux-mar)/2ndSet/IMG_20250619_221633.jpg)
 
 ### 5.2. Configuración de GRUB
 
@@ -262,13 +262,13 @@ grub-mkconfig -o /boot/grub/grub.cfg
 
 *Intentos de grub-mkconfig*
 
-![IMG_20250620_194359](./2ndSet/IMG_20250620_194359.jpg)
+![IMG_20250620_194359](../../assets/images(arch-linux-mar)/2ndSet/IMG_20250620_194359.jpg)
 
-![IMG_20250625_010759](./2ndSet/IMG_20250625_010759.jpg)
+![IMG_20250625_010759](../../assets/images(arch-linux-mar)/2ndSet/IMG_20250625_010759.jpg)
 
 
 
-![IMG_20250625_010759](./2ndSet/IMG_20250625_010759.jpg)
+![IMG_20250625_010759](../../assets/images(arch-linux-mar)/2ndSet/IMG_20250625_010759.jpg)
 
 
 
@@ -322,13 +322,13 @@ Esto instaló numerosos paquetes, incluidos `linux-aarch64-6.15.3-3`, `linux-fir
 
 **Captura de Pantalla**: [`pacman -Syu`]
 
-![IMG_20250629_170758](./IMG_20250629_170758.jpg)
+![IMG_20250629_170758](../../assets/images(arch-linux-mar)/IMG_20250629_170758.jpg)
 
-![IMG_20250629_200910](./IMG_20250629_200910.jpg)
+![IMG_20250629_200910](../../assets/images(arch-linux-mar)/IMG_20250629_200910.jpg)
 
 
 
-![IMG_20250629_173526](./IMG_20250629_173526.jpg)
+![IMG_20250629_173526](../../assets/images(arch-linux-mar)/IMG_20250629_173526.jpg)
 
 ### 7.2. Prevención de Actualizaciones del Kernel
 Para evitar que `pacman -Syu` sobrescriba el kernel funcional, se podria añadir:
@@ -363,7 +363,7 @@ WaylandEnable=false
 
 **Captura de Pantalla**: 
 
-![image-20250703192813525](./image-20250703192813525.png)
+![image-20250703192813525](../../assets/images(arch-linux-mar)/image-20250703192813525.png)
 
 ---
 
@@ -387,11 +387,11 @@ mkinitcpio -P
 
 *Antes de instalar el qcom-firmware-extract*
 
-![IMG_20250624_231643](./IMG_20250624_231643.jpg)
+![IMG_20250624_231643](../../assets/images(arch-linux-mar)/IMG_20250624_231643.jpg)
 
 *Despues de instalar el qcom-firmware-extract*
 
-![IMG_20250625_001914](./IMG_20250625_001914.jpg)
+![IMG_20250625_001914](../../assets/images(arch-linux-mar)/IMG_20250625_001914.jpg)
 
 ### 9.2. Verificación Final
 - Comprobé el arranque con el kernel de Ubuntu y los parámetros de GRUB.
@@ -403,7 +403,7 @@ mkinitcpio -P
 
 **Captura de Pantalla**: 
 
-<video src="./VID_20250629_225529.mp4"></video>
+<video src="../../assets/images(arch-linux-mar)/VID_20250629_225529.mp4"></video>
 
 
 
@@ -428,11 +428,11 @@ El sistema ahora arranca correctamente en un TTY y, con GNOME, ofrece una interf
 
 **Arranque desde el sistema a traves de GRUB*
 
-<video src="./VID_20250629_230509.mp4"></video>
+<video src="../../assets/images(arch-linux-mar)/VID_20250629_230509.mp4"></video>
 
 *Totalmente funcional desde chroot*
 
-![IMG_20250625_002706](./2ndSet/IMG_20250625_002706.jpg)
+![IMG_20250625_002706](../../assets/images(arch-linux-mar)/2ndSet/IMG_20250625_002706.jpg)
 
 ---
 
