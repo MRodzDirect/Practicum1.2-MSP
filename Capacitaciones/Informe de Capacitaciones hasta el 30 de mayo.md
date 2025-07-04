@@ -50,20 +50,20 @@ Este informe detalla el progreso, actividades y resultados obtenidos durante el 
   - Instalacion del IDE y setup inicial (30 min, por que probe que tal funciona en comparacion a NetBeans) -> Ver Bitacora - Netbeans VS Eclipse para el proyecto Spring Boot
 
 
-  <img src=".\assets\images\image-20250529103556749.png" alt="image-20250529103556749" style="zoom:50%;" />
+  <img src="..\assets\images\image-20250529103556749.png" alt="image-20250529103556749" style="zoom:50%;" />
 
   
 
   ✔️Compatible para mi sistema en arm64.
 
-  <img src=".\assets\images\image-20250529121141600.png" alt="image-20250529121141600" />
+  <img src="..\assets\images\image-20250529121141600.png" alt="image-20250529121141600" />
 
   * Errores con la instalacion (+10 min):
 
     * "Not all files were found, make sure you have installed the full program".
     * Solucion: Editar este registro en regedit.msc para que permita archivos descomprimidos en rutas extensas
 
-    <img src=".\assets\images\image-20250529112345449.png" alt="image-20250529112345449" />
+    <img src="..\assets\images\image-20250529112345449.png" alt="image-20250529112345449" />
 
   * Instalación del SQL e IDE (15 min)
 
@@ -71,10 +71,10 @@ Este informe detalla el progreso, actividades y resultados obtenidos durante el 
 
     -  Para mi caso utilize aplicaciones mejores compatibles con mi sistema arm64: MariaDB y DBeaver, los cuales con equivalentes a MySQL y Workbench
 
-​	<img src=".\assets\images\image-20250529111202302.png" alt="image-20250529111202302" />
+​	<img src="..\assets\images\image-20250529111202302.png" alt="image-20250529111202302" />
 
 
 
-<img src=".\assets\images\image-20250529111439559.png" alt="image-20250529111439559" />
+<img src="..\assets\images\image-20250529111439559.png" alt="image-20250529111439559" />
 
 - [Código fuente del microservicio en progreso: enlace a GitHub pendiente de crear].
