@@ -88,55 +88,55 @@ Se sincronizaron archivos con **OneDrive** y **Dropbox**, recuperando espacio ad
   
   **Compilacion (Micro Win 11) y manejo de errores:**
   
-  ![IMG_20250605_151906](/../images(manjaro-javier)/IMG_20250605_151906.jpg)
+  ![IMG_20250605_151906](../../assets/images(manjaro-javier)/IMG_20250605_151906.jpg)
   
-  ![IMG_20250605_164023](/../images(manjaro-javier)/IMG_20250605_164023.jpg)
+  ![IMG_20250605_164023](../../assets/images(manjaro-javier)/IMG_20250605_164023.jpg)
   
   
   
   **Proceso de instalacion:**
   
-  ![IMG_20250605_165554](/../images(manjaro-javier)/IMG_20250605_165554.jpg)
+  ![IMG_20250605_165554](../../assets/images(manjaro-javier)/IMG_20250605_165554.jpg)
   
-  ![IMG_20250605_165623](/../images(manjaro-javier)/IMG_20250605_165623.jpg)
+  ![IMG_20250605_165623](../../assets/images(manjaro-javier)/IMG_20250605_165623.jpg)
   
-  ![IMG_20250605_165745](/../images(manjaro-javier)/IMG_20250605_165745.jpg)
+  ![IMG_20250605_165745](../../assets/images(manjaro-javier)/IMG_20250605_165745.jpg)
   
-  ![IMG_20250605_165857](/../images(manjaro-javier)/IMG_20250605_165857.jpg)
+  ![IMG_20250605_165857](../../assets/images(manjaro-javier)/IMG_20250605_165857.jpg)
   
-  ![IMG_20250605_165859](/../images(manjaro-javier)/IMG_20250605_165859.jpg)
+  ![IMG_20250605_165859](../../assets/images(manjaro-javier)/IMG_20250605_165859.jpg)
   
-  ![IMG_20250605_165912](/../images(manjaro-javier)/IMG_20250605_165912.jpg)
+  ![IMG_20250605_165912](../../assets/images(manjaro-javier)/IMG_20250605_165912.jpg)
   
-  ![IMG_20250605_170249](/../images(manjaro-javier)/IMG_20250605_170249.jpg)
+  ![IMG_20250605_170249](../../assets/images(manjaro-javier)/IMG_20250605_170249.jpg)
   
-  ![IMG_20250605_170403](/../images(manjaro-javier)/IMG_20250605_170403.jpg)
+  ![IMG_20250605_170403](../../assets/images(manjaro-javier)/IMG_20250605_170403.jpg)
   
-  ![IMG_20250605_170448](/../images(manjaro-javier)/IMG_20250605_170448.jpg)
+  ![IMG_20250605_170448](../../assets/images(manjaro-javier)/IMG_20250605_170448.jpg)
   
-  ![IMG_20250605_170449](/../images(manjaro-javier)/IMG_20250605_170449.jpg)
+  ![IMG_20250605_170449](../../assets/images(manjaro-javier)/IMG_20250605_170449.jpg)
   
-  ![IMG_20250605_171333](/../images(manjaro-javier)/IMG_20250605_171333.jpg)
+  ![IMG_20250605_171333](../../assets/images(manjaro-javier)/IMG_20250605_171333.jpg)
   
-  ![IMG_20250605_171333_1](/../images(manjaro-javier)/IMG_20250605_171333_1.jpg)
+  ![IMG_20250605_171333_1](../../assets/images(manjaro-javier)/IMG_20250605_171333_1.jpg)
   
-  ![IMG_20250605_171334](/../images(manjaro-javier)/IMG_20250605_171334.jpg)
+  ![IMG_20250605_171334](../../assets/images(manjaro-javier)/IMG_20250605_171334.jpg)
   
-  ![IMG_20250605_171524](/../images(manjaro-javier)/IMG_20250605_171524.jpg)
+  ![IMG_20250605_171524](../../assets/images(manjaro-javier)/IMG_20250605_171524.jpg)
   
-  ![IMG_20250605_171537](/../images(manjaro-javier)/IMG_20250605_171537.jpg)
+  ![IMG_20250605_171537](../../assets/images(manjaro-javier)/IMG_20250605_171537.jpg)
   
-  ![IMG_20250605_171755](/../images(manjaro-javier)/IMG_20250605_171755.jpg)
+  ![IMG_20250605_171755](../../assets/images(manjaro-javier)/IMG_20250605_171755.jpg)
   
-  ![IMG_20250605_171820](/../images(manjaro-javier)/IMG_20250605_171820.jpg)
+  ![IMG_20250605_171820](../../assets/images(manjaro-javier)/IMG_20250605_171820.jpg)
   
-  ![IMG_20250605_171838](/../images(manjaro-javier)/IMG_20250605_171838.jpg)
+  ![IMG_20250605_171838](../../assets/images(manjaro-javier)/IMG_20250605_171838.jpg)
   
-  ![IMG_20250605_172014](/../images(manjaro-javier)/IMG_20250605_172014.jpg)
+  ![IMG_20250605_172014](../../assets/images(manjaro-javier)/IMG_20250605_172014.jpg)
   
-  ![IMG_20250605_135047](/../images(manjaro-javier)/IMG_20250605_135047.jpg)
+  ![IMG_20250605_135047](../../assets/images(manjaro-javier)/IMG_20250605_135047.jpg)
   
-  ![IMG_20250605_142510](/../images(manjaro-javier)/IMG_20250605_142510.jpg)
+  ![IMG_20250605_142510](../../assets/images(manjaro-javier)/IMG_20250605_142510.jpg)
   
   
 
