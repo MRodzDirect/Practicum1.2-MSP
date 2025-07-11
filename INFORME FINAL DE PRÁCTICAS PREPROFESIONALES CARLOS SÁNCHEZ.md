@@ -64,11 +64,3 @@ Mi grupo ha estado trabajando en los avances del proyecto, y con este conocimien
 
 ---
 
-**Instrucciones para el grupo:**  
-- Completen las actividades grupales con las fechas y referencias reales.
-- Reemplacen las actividades individuales de ejemplo según el trabajo realizado por cada uno (pueden copiar/pegar y modificar el formato).
-- Agreguen las evidencias (imágenes, capturas de pantalla, archivos .drawio, .sql, etc.) en la carpeta o ruta indicada.
-- Cada integrante debe personalizar su informe antes de enviarlo.
-
----
-
