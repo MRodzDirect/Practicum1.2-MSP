@@ -16,16 +16,16 @@
 
 | **Actividad**                                             | **Fecha inicio** | **Fecha fin** | **Horas** | **Evidencia/Referencia**                     |
 |-----------------------------------------------------------|------------------|---------------|-----------|-----------------------------------------------|
-| Respaldo de los datos                                     | 15/04/2025       | 15/04/2025    | 3         | Capturas de respaldo, logs                    |
-| Partición forzosa                                         | 15/04/2025       | 15/04/2025    | 2         | Capturas, consola de particionado             |
+| Respaldo de los datos                                     | 15/04/2025       | 15/04/2025    | 4         | Capturas de respaldo, logs                    |
+| Partición forzosa                                         | 15/04/2025       | 15/04/2025    | 4         | Capturas, consola de particionado             |
 | Daños del sistema operativo Windows                       | 16/04/2025       | 17/04/2025    | 3.5       | Bitácora de errores, logs                     |
 | Formateo del equipo                                       | 17/04/2025       | 17/04/2025    | 1         | Captura de proceso de formateo                |
 | Reinstalación de Windows                                  | 17/04/2025       | 17/04/2025    | 1         | Capturas, ISO utilizada                       |
-| Reparticionado                                            | 17/04/2025       | 17/04/2025    | 0.3       | Pantallazo de partición                       |
-| Instalación de Manjaro                                    | 18/04/2025       | 18/04/2025    | 2         | Capturas, logs, entorno Manjaro               |
+| Reparticionado                                            | 17/04/2025       | 17/04/2025    | 0.5       | Pantallazo de partición                       |
+| Instalación de Manjaro                                    | 18/04/2025       | 18/04/2025    | 7         | Capturas, logs, entorno Manjaro               |
 | Instalación del entorno de trabajo                        | 18/04/2025       | 21/04/2025    | 8         | Lista de paquetes, configuraciones            |
 | Reuniones de coordinación/planificación                   | 20/04/2025       | 05/08/2025    | 3         | Actas de reunión, capturas de videollamada    |
-| Creación del formulario 008 en digital                    | 22/04/2025       | 25/04/2025    | 7         | Captura del formulario, diseño UI             |
+| Creación del formulario 008 en digital                    | 22/04/2025       | 25/04/2025    | 15         | Captura del formulario, diseño UI             |
 
 ---
 
