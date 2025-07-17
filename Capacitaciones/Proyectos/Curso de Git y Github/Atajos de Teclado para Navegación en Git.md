@@ -21,7 +21,9 @@
     - `Ctrl + X`: Salir del editor (si usas vim, puede ser `:q`).
     - `i`: Cambiar a modo de inserción en vim.
     - `Esc`: Salir del modo de inserción en vim.
+      - Si no funciona `Esc` usar `Shift`
     - `: + wq`: Guardar y salir en vim.
+    - `: + wq!`: Guardar y salir inmediatamente en vim
     - Teclas de flecha arriba/abajo: Navegar por el historial de comandos en la terminal.
 
 
