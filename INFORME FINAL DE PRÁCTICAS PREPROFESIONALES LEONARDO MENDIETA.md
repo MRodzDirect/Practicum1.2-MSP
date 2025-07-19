@@ -16,12 +16,12 @@
 
 | **Actividad**                                | **Fecha inicio** | **Fecha fin** | **Horas** | **Evidencia/Referencia**               |
 |---------------------------------------------|------------------|---------------|-----------|----------------------------------------|
-| Cursos (Angular + otros)                    | 25/05/2025       | 15/06/2025    | 9         | Certificados, plataforma virtual       |
+| Curso (Angular)                             | 25/05/2025       | 15/06/2025    | 9         |            							  |
 | Instalación de programas para el curso      | 25/05/2025       | 05/06/2025    | 6         | Capturas, terminal, instaladores       |
-| Ejercicios del curso                        | 25/05/2025       | 15/06/2025    | 5         | Capturas, repositorio, plataforma      |
-| Reuniones de coordinación/planificación     | 29/05/2025       | 27/06/2025    | 8         | Actas de reunión, capturas             |
-| Creación del formulario 008 en Figma        | 29/05/2025       | 29/05/2025    | 5         | Enlace a Figma, diseño final exportado |
-| Respaldo de los datos                       | 02/06/2025       | 02/06/2025    | 4.5       | Capturas de respaldo, logs             |
+| Ejercicios del curso                        | 25/05/2025       | 15/06/2025    | 5         | https://github.com/andres726127/Practicas_1.2      |
+| Reuniones de coordinación/planificación     | 29/05/2025       | 27/06/2025    | 8         | 							              |
+| Creación del formulario 008 en Figma        | 29/05/2025       | 29/05/2025    | 5         | [Imagen]								  |
+| Respaldo de los datos                       | 02/06/2025       | 02/06/2025    | 4.5       | 							              |
 | Partición forzosa                           | 03/06/2025       | 03/06/2025    | 3.5       | Capturas, consola de particionado      |
 | Daños del sistema operativo Windows         | 03/06/2025       | 05/06/2025    | 6         | Bitácora de errores, logs              |
 | Formateo del equipo                         | 05/06/2025       | 05/06/2025    | 2.5       | Captura de proceso de formateo         |
