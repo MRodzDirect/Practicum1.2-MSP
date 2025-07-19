@@ -16,21 +16,24 @@
 
 | **Actividad**                                | **Fecha inicio** | **Fecha fin** | **Horas** | **Evidencia/Referencia**               |
 |---------------------------------------------|------------------|---------------|-----------|----------------------------------------|
-| Cursos                                       | 25/05/2025       | 15/06/2025    | 5         | Certificados, plataforma virtual       |
-| Instalación de programas para el curso       | 25/05/2025       | 05/06/2025    | 4         | Capturas, terminal, instaladores       |
-| Ejercicios del curso                         | 25/05/2025       | 15/06/2025    | 3         | Capturas, repositorio, plataforma      |
-| Reuniones de coordinación/planificación      | 29/05/2025       | 27/06/2025    | 4.5       | Actas de reunión, capturas             |
-| Creación del formulario 008 en Figma         | 29/05/2025       | 29/05/2025    | 5         | Enlace a Figma, diseño final exportado |
-| Respaldo de los datos                        | 02/06/2025       | 02/06/2025    | 6         | Capturas de respaldo, logs             |
-| Partición forzosa                            | 03/06/2025       | 03/06/2025    | 4         | Capturas, consola de particionado      |
-| Daños del sistema operativo Windows          | 03/06/2025       | 05/06/2025    | 10        | Bitácora de errores, logs              |
-| Formateo del equipo                          | 05/06/2025       | 05/06/2025    | 2.5       | Captura de proceso de formateo         |
-| Reinstalación de Windows                     | 05/06/2025       | 05/06/2025    | 3         | Capturas, ISO utilizada                |
-| Instalación de drivers para Windows          | 05/06/2025       | 05/06/2025    | 3         | Panel de control, capturas             |
-| Reparticionado                               | 07/06/2025       | 07/06/2025    | 0.3       | Pantallazo de partición                |
-| Instalación de Manjaro                       | 10/06/2025       | 10/06/2025    | 11        | Capturas, logs, entorno Manjaro        |
-| Creación del formulario 008 en digital       | 14/06/2025       | 14/06/2025    | 10        | Captura del formulario, diseño UI      |
-| Instalación del entorno de trabajo           | 18/06/2025       | 18/06/2025    | 8         | Lista de paquetes, configuraciones     |
+| Cursos (Angular + otros)                    | 25/05/2025       | 15/06/2025    | 9         | Certificados, plataforma virtual       |
+| Instalación de programas para el curso      | 25/05/2025       | 05/06/2025    | 6         | Capturas, terminal, instaladores       |
+| Ejercicios del curso                        | 25/05/2025       | 15/06/2025    | 5         | Capturas, repositorio, plataforma      |
+| Reuniones de coordinación/planificación     | 29/05/2025       | 27/06/2025    | 8         | Actas de reunión, capturas             |
+| Creación del formulario 008 en Figma        | 29/05/2025       | 29/05/2025    | 5         | Enlace a Figma, diseño final exportado |
+| Respaldo de los datos                       | 02/06/2025       | 02/06/2025    | 3.5       | Capturas de respaldo, logs             |
+| Partición forzosa                           | 03/06/2025       | 03/06/2025    | 3.5       | Capturas, consola de particionado      |
+| Daños del sistema operativo Windows         | 03/06/2025       | 05/06/2025    | 6         | Bitácora de errores, logs              |
+| Formateo del equipo                         | 05/06/2025       | 05/06/2025    | 2.5       | Captura de proceso de formateo         |
+| Reinstalación de Windows                    | 05/06/2025       | 05/06/2025    | 3         | Capturas, ISO utilizada                |
+| Instalación de drivers para Windows         | 05/06/2025       | 05/06/2025    | 2         | Panel de control, capturas             |
+| Reparticionado                              | 07/06/2025       | 07/06/2025    | 0.5       | Pantallazo de partición                |
+| Instalación de Manjaro                      | 10/06/2025       | 10/06/2025    | 5         | Capturas, logs, entorno Manjaro        |
+| Creación del formulario 008 en digital (HTML)| 14/06/2025      | 14/06/2025    | 6         | Captura del formulario, diseño UI      |
+| Instalación del entorno de trabajo (JHipster, PostgreSQL, NVM, etc.) | 18/06/2025 | 18/06/2025 | 8 | Lista de paquetes, configuraciones     |
+| Investigación, resolución de errores, ajustes, pruebas | 25/05/2025 | 27/06/2025 | 17 | Historial de comandos, búsquedas, notas |
+
+**Total de horas: 93.5**
 
 ---
 
