@@ -131,13 +131,13 @@ Para poder desarrollar el proyecto del MSP, se validó de la siguiente manera:
 |Instalación de paquetes y extensiones |11/06/2025|11/06/2025|1|<http://bit.ly/3UgHipo> |
 |Instalación de programas para el curso por medio de la terminal Xfce|11/06/2025|12/06/2025|2|<p><https://tinyurl.com/mr3mxcee></p><p><https://tinyurl.com/yc2975u9></p><p><https://tinyurl.com/4d3su5p6> </p><p><https://tinyurl.com/5n6zuamc> </p>|
 |Primeras prácticas en Angular (ejercicios)|13/06/2025|15/06/2025|5|<https://tinyurl.com/5a323sse> |
-|Problema al conectarse a una red de internet|13/06/2025|14/06/2025|1|<https://tinyurl.com/y3sr9w66> |
+|Problema al conectarse a una red de internet|13/06/2025|14/06/2025|2|<https://tinyurl.com/y3sr9w66> |
 |Uso de la herramienta Figma (curso)|20/06/2025|27/06/2025|4|<https://youtu.be/VdS9ZGHHXWQ?si=jKZwSzHWl7iWjvOq> |
-|Creación del prototipado del Formulario MSP-008 en Figma|<p>17/06/2025</p><p></p>|<p>07/07/2025</p><p></p>|5|<https://tinyurl.com/mwktmdt7>|
-|Creación del formulario MPS-008 en forma digital|14/06/2025|15/06/2025|12|<https://tinyurl.com/3ahh2pxr> |
-|Colapso constante del entorno de trabajo VS Code en la programación de la página web|27/06/2025|30/06/2025|2|<https://tinyurl.com/4djsrbbk> |
-|Reinstalación de VS Code |27/06/2025|27/06/2025|1|<https://tinyurl.com/3rrhvdkc> |
-|Errores ortográficos en los archivos del Formulario (Identificación establecimiento)|01/06/2025|02/06/2025|2\.30|<https://tinyurl.com/4ydxv2av> |
+|Creación del prototipado del Formulario MSP-008 en Figma|<p>17/06/2025</p><p></p>|<p>07/07/2025</p><p></p>|6|<https://tinyurl.com/mwktmdt7>|
+|Creación del formulario MPS-008 en forma digital|14/06/2025|15/06/2025|8|<https://tinyurl.com/3ahh2pxr> |
+|Colapso constante del entorno de trabajo VS Code en la programación de la página web|27/06/2025|30/06/2025|3|<https://tinyurl.com/4djsrbbk> |
+|Reinstalación de VS Code |27/06/2025|27/06/2025|1.5|<https://tinyurl.com/3rrhvdkc> |
+|Errores ortográficos en los archivos del Formulario (Identificación establecimiento)|01/06/2025|02/06/2025|2.5|<https://tinyurl.com/4ydxv2av> |
 |` `Despliegue del modelo final en HTML|01/07/2025|07/07/2025|2|[Abrir Formulario MSP-008](C:\Users\Javier Montaño\Downloads\Form008.html)|
 |Documentación del trabajo. |||2|<https://github.com/MRodzDirect/Practicum1.2-MSP/blob/main/Bitacoras/Actividades> |
 
@@ -286,7 +286,6 @@ Referencias:
 | - |
 |<p>Firma del estudiante:</p><p>Javier De Jesus Montaño Cabrera</p>|
 **\
-
 
 
 
