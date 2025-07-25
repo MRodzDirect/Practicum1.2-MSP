@@ -9,7 +9,7 @@
 - **Rol en el proyecto:** FrontEnd
 - **Tutor interno:** Ing. Karla Romero
 - **Tutor externo:** Ing. Fernanda Soto
-
+a
 ---
 
 ## 1. Proyecto y horas dedicadas
