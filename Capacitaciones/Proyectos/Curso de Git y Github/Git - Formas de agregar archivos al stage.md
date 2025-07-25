@@ -39,3 +39,21 @@ git add folder_name/*.type
 
 
 
+## Multiples carpetas
+
+
+
+* Agregar todos los contenidos de una carpeta de forma sencilla:
+
+```bash
+git add folder/
+```
+
+* Agregar todos los contenidos de una carpeta de forma compleja:
+
+
+
+```bash
+git add folder/*.type
+```
+
