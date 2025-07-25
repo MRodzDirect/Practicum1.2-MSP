@@ -120,14 +120,15 @@ Para poder desarrollar el proyecto del MSP, se validó de la siguiente manera:
 
 |**Actividad**|**Fecha inicio**|**Fecha fin**|**Horas**|**Nro. Anexo**|
 | :-: | :-: | :-: | :-: | :-: |
+|Primera Reunión del Proyecto (con tutores externos)|29/05/2025 3:00 pm|29/05/2025 6:00 pm|3||
+|Segunda Reunión del Proyecto|14/06/2025 11:00 am|14/06/2025 12:30 am|1.5||
+|Tercera Reunión del Proyecto|27/06/2025 3:00 pm|27/06/2025 6:30 pm|3.5||
 |Limpieza y respaldo del disco duro y liberación de espacio en memoria|29/05/2025|04/06/2025|3|<p><https://bit.ly/44Tf9tv></p><p></p>|
 |Instalación y configuración de los Sistemas Operativos ((Windows, (Manjaro) Linux)|30/05/2025|05/06/2025|6|<p><http://bit.ly/3Gww4Kn> </p><p><https://tinyurl.com/bdhvxwct> </p>|
 |Actualización, instalación y configuración de Windows 11 Home a Windows 11 Pro|30/05/2025|06/06/2025|6|<http://bit.ly/4lXyqAL> |
 |Problema con la interfaz de Manjaro XFCE Linux LightDM|12/05/2025|16/06/2025|4|<http://bit.ly/4mlKLzd> |
 |Solución de errores en la interfaz, incluido el idioma|13/05/2025|16/06/2025|7|<https://github.com/MRodzDirect/Practicum1.2-MSP/blob/main/Bitacoras/Actividades/Instalacion%20-%20Javier%20M.%20(Manjaro).md> |
-|Primera reunión de coordinación/planificación para el proyecto MSP|01/05/2025 15:30H|01/05/2025 18:30H|3||
 |Capacitación de cursos para la ejecución en Angular CLI (cursando)|16/05/2025|.. /.. /2025|20|<https://utpl.udemy.com/course/angular-fernando-herrera/learn/lecture/48743973> |
-|Segunda reunión de coordinación/planificación en la Universidad, solución de errores.|<p>23/05/2025</p><p>11:00H</p>|<p>23/05/2025</p><p>12:30H</p>|1\.30||
 |Instalación de paquetes y extensiones |11/06/2025|11/06/2025|1|<http://bit.ly/3UgHipo> |
 |Instalación de programas para el curso por medio de la terminal Xfce|11/06/2025|12/06/2025|2|<p><https://tinyurl.com/mr3mxcee></p><p><https://tinyurl.com/yc2975u9></p><p><https://tinyurl.com/4d3su5p6> </p><p><https://tinyurl.com/5n6zuamc> </p>|
 |Primeras prácticas en Angular (ejercicios)|13/06/2025|15/06/2025|5|<https://tinyurl.com/5a323sse> |
