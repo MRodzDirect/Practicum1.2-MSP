@@ -85,6 +85,8 @@ Nuevas actividades (reuniones + modelos): 3 + 2.5 + 3.5 + 7 + 5 + 5 + 1.71+1.56 
 - [image-20250529103556749.png](assets/images/image-20250529103556749.png): entorno Eclipse arm64  
 - [IMG_20250605_151906.jpg](assets/images(manjaro-javier)/IMG_20250605_151906.jpg): compilación Windows 11 Pro
 
+
+
 ---
 
 ### 2.3 RELACIÓN CON PERFIL DE EGRESO Y COMPETENCIAS
