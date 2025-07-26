@@ -17,9 +17,9 @@ a
 | **Actividad**                                | **Fecha inicio** | **Fecha fin** | **Horas** | **Evidencia/Referencia**               |
 |---------------------------------------------|------------------|---------------|-----------|----------------------------------------|
 | Curso (Angular)                             | 25/05/2025       | 15/06/2025    | 9         | https://github.com/andres726127/Practicas_1.2   							  |
-| Instalación de programas para el curso      | 25/05/2025       | 05/06/2025    | 6         |             |
+| Instalación de programas para el curso      | 25/05/2025       | 05/06/2025    | 6         | ![VSS](https://raw.githubusercontent.com/MRodzDirect/Practicum1.2-MSP/refs/heads/main/assets/images(Leonardo)/VSS2025-07-25.jpeg)       |
 | Ejercicios del curso                        | 25/05/2025       | 15/06/2025    | 5         | https://github.com/andres726127/Practicas_1.2      |
-| Reuniones de coordinación/planificación     | 29/05/2025       | 27/06/2025    | 8         | 				              |
+| Reuniones de coordinación/planificación     | 29/05/2025       | 27/06/2025    | 8         | 			              |
 | Creación del formulario 008 en Figma        | 29/05/2025       | 29/05/2025    | 5         | https://www.figma.com/design/7chQ65Df5uc40cuQIqZP3O/MSP-1T?node-id=0-1&p=f&t=NVzHKv5Dj7ETU57g-0							  |
 | Respaldo de los datos                       | 02/06/2025       | 02/06/2025    | 4.5       | ![Respaldo de datos](https://raw.githubusercontent.com/MRodzDirect/Practicum1.2-MSP/refs/heads/main/assets/images(Leonardo)/RespaldoDeDatos2025-07-16.jpeg)						              |
 | Partición forzosa                           | 03/06/2025       | 03/06/2025    | 3.5       | ![Intento de particion](https://raw.githubusercontent.com/MRodzDirect/Practicum1.2-MSP/refs/heads/main/assets/images(Leonardo)/IntentoDeParticion2025-07-16.jpeg)      |
