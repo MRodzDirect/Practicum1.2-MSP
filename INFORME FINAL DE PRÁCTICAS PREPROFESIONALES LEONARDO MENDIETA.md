@@ -17,7 +17,7 @@ a
 | **Actividad**                                | **Fecha inicio** | **Fecha fin** | **Horas** | **Evidencia/Referencia**               |
 |---------------------------------------------|------------------|---------------|-----------|----------------------------------------|
 | Curso (Angular)                             | 25/05/2025       | 15/06/2025    | 9         | https://github.com/andres726127/Practicas_1.2   							  |
-| Instalación de programas para el curso      | 25/05/2025       | 05/06/2025    | 6         | Instale programas como vss             |
+| Instalación de programas para el curso      | 25/05/2025       | 05/06/2025    | 6         |             |
 | Ejercicios del curso                        | 25/05/2025       | 15/06/2025    | 5         | https://github.com/andres726127/Practicas_1.2      |
 | Reuniones de coordinación/planificación     | 29/05/2025       | 27/06/2025    | 8         | 				              |
 | Creación del formulario 008 en Figma        | 29/05/2025       | 29/05/2025    | 5         | https://www.figma.com/design/7chQ65Df5uc40cuQIqZP3O/MSP-1T?node-id=0-1&p=f&t=NVzHKv5Dj7ETU57g-0							  |
@@ -30,18 +30,7 @@ a
 | Reparticionado                              | 07/06/2025       | 07/06/2025    | 0.5       | ![Reparticion](https://raw.githubusercontent.com/MRodzDirect/Practicum1.2-MSP/refs/heads/main/assets/images(Leonardo)/ParticionCreada2025-07-16.jpeg)                |
 | Instalación de Manjaro                      | 10/06/2025       | 10/06/2025    | 5         | ![Manjaro Instalando](https://raw.githubusercontent.com/MRodzDirect/Practicum1.2-MSP/refs/heads/main/assets/images(Leonardo)/InicioManjaro2025-07-16.jpeg)        |
 | Creación del formulario 008 en digital (HTML)| 14/06/2025      | 14/06/2025    | 7         | ![Formulario 008](https://raw.githubusercontent.com/MRodzDirect/Practicum1.2-MSP/refs/heads/main/assets/images(manjaro-javier)/WhatsApp%20Image%202025-07-11%20at%2011.22.09.jpeg)      |
-| Instalación del entorno de trabajo (JHipster, PostgreSQL, NVM, etc.) | 18/06/2025 | 18/06/2025 | 8.5 | Tools:
-JHipster -> convertir código a entidades
-OS:
-Manjaro -> arch based distro
-
-Binaries:
-Java 17, JDL
-SpringBoot
-PostgreSQL (natively, not with docker)
-Node 18 minimum (nvm is possible to use)
-Docker, compose, db
-KeyCloak     |
+| Instalación del entorno de trabajo (JHipster, PostgreSQL, NVM, etc.) | 18/06/2025 | 18/06/2025 | 8.5 | Tools: JHipster -> convertir código a entidades, OS: Manjaro, Binaries: Java 17, JDL SpringBoot, PostgreSQL (natively, not with docker), Node 18 minimum (nvm is possible to use), Docker, compose, db, KeyCloak     |
 | Investigación, resolución de errores, ajustes, pruebas | 25/05/2025 | 27/06/2025 | 17 | ![Formateada](https://raw.githubusercontent.com/MRodzDirect/Practicum1.2-MSP/refs/heads/main/assets/images(Leonardo)/PCFormate2025-07-16.jpeg) |
 
 **Total de horas: 96**
