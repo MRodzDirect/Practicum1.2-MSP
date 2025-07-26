@@ -105,12 +105,8 @@ Las actividades fortalecieron competencias del perfil profesional de Ciencias de
 
 Adjuntar enlaces, capturas, archivos, scripts, diagramas, o cualquier otro documento que respalde las actividades reportadas.
 
-- Capturas del proceso de instalación de Windows y Manjaro  
-- Pantallazos de la partición y respaldo de datos  
-- Bitácoras del sistema y errores registrados  
-- Formulario 008 en digital (.fig, .pdf o .html)  
-- Actas de reuniones y documentos de coordinación  
-- Carpeta compartida en Google Drive
+- Anexos: [Actividades](Bitacoras/Actividades/)
+- Imagenes: [Imagenes](/assets/images(Leonardo)/)
 
 ---
 
