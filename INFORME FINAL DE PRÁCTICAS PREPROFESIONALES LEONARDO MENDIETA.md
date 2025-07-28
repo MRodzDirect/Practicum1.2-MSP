@@ -65,7 +65,7 @@ Hasta ahora llevo **96 horas completadas**, que incluyen todo el trabajo técnic
 | Instalación del entorno de trabajo (JHipster, PostgreSQL, NVM, etc.) | 18/06/2025       | 18/06/2025    | 8.5       | Tools: JHipster -> convertir código a entidades, OS: Manjaro, Binaries: Java 17, JDL SpringBoot, PostgreSQL (natively, not with docker), Node 18 minimum (nvm is possible to use), Docker, compose, db, KeyCloak |
 | Investigación, resolución de errores, ajustes, pruebas       | 25/05/2025       | 27/06/2025    | 17        | [Formateada](https://raw.githubusercontent.com/MRodzDirect/Practicum1.2-MSP/refs/heads/main/assets/images(Leonardo)/PCFormate2025-07-16.jpeg) |
 
-**Total de horas: 96**
+**Total de horas: 97**
 
 
 
