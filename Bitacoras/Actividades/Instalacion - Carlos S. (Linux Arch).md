@@ -1,6 +1,6 @@
-# Bitácora: Instalación y Configuración de Arch Linux x64 en VICTUS 16 con AMD Ryzen™ 7 8845H
+# Bitácora: Instalación y Configuración de Arch Linux x64 en VICTUS 16 con Intel Core i5-11400h
 
-Este informe detalla el proceso completo para instalar y configurar Arch Linux x64 en una laptop VICTUS 16 con procesador AMD Ryzen™ 7 8845H, desde el particionamiento del disco hasta el arranque directo desde grub con un entorno grafico GNOME. La instalación se realiza utilizando una imagen en vivo de Arch Linux (`archlinux-x86_64.iso`) para configurar el sistema. A diferencia de la arquitectura ARM64, el proceso en x64 es más directo, pero requiere atención en configuraciones específicas como `locale-gen` y ajustes de red. Se documentan pasos clave, errores comunes y capturas de pantalla (representadas por placeholders, que las reemplazare en estos dias). El proceso, siendo principiantes, tomó aproximadamente 14 horas debido a la necesidad de investigar y resolver problemas junto a nuestro equipo.
+Este informe detalla el proceso completo para instalar y configurar Arch Linux x64 en una laptop VICTUS 16 con procesador Intel Core i5-11400h, desde el particionamiento del disco hasta el arranque directo desde grub con un entorno grafico GNOME. La instalación se realiza utilizando una imagen en vivo de Arch Linux (`archlinux-x86_64.iso`) para configurar el sistema. A diferencia de la arquitectura ARM64, el proceso en x64 es más directo, pero requiere atención en configuraciones específicas como `locale-gen` y ajustes de red. Se documentan pasos clave, errores comunes y capturas de pantalla (representadas por placeholders, que las reemplazare en estos dias). El proceso, siendo principiantes, tomó aproximadamente 14 horas debido a la necesidad de investigar y resolver problemas junto a nuestro equipo.
 
 ------
 
@@ -12,7 +12,7 @@ La instalación de Arch Linux en la arquitectura x64 es más simple que en ARM64
 
 ### 1.2. Requisitos
 
-- **Hardware**: VICTUS 16 con AMD Ryzen™ 7 8845H.
+- **Hardware**: VICTUS 16 con Intel Core i5-11400h
 
 - **Medios**: USB con Arch Linux x64 (`archlinux-x86_64.iso`).
 
