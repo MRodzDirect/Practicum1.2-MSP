@@ -118,29 +118,32 @@ Para poder desarrollar el proyecto del MSP, se validó de la siguiente manera:
 
 1. **ACTIVIDADES DEL PROYECTO**
 
-|**Actividad**|**Fecha inicio**|**Fecha fin**|**Horas**|**Nro. Anexo**|
-| :-: | :-: | :-: | :-: | :-: |
-|Primera Reunión del Proyecto (con tutores externos)|29/05/2025 3:00 pm|29/05/2025 6:00 pm|3||
-|Segunda Reunión del Proyecto|14/06/2025 11:00 am|14/06/2025 12:30 am|1.5||
-|Tercera Reunión del Proyecto|27/06/2025 3:00 pm|27/06/2025 6:30 pm|3.5||
-|Limpieza y respaldo del disco duro y liberación de espacio en memoria|29/05/2025|04/06/2025|3|<p><https://bit.ly/44Tf9tv></p><p></p>|
-|Instalación y configuración de los Sistemas Operativos ((Windows, (Manjaro) Linux)|30/05/2025|05/06/2025|6|<p><http://bit.ly/3Gww4Kn> </p><p><https://tinyurl.com/bdhvxwct> </p>|
-|Actualización, instalación y configuración de Windows 11 Home a Windows 11 Pro|30/05/2025|06/06/2025|6|<http://bit.ly/4lXyqAL> |
-|Problema con la interfaz de Manjaro XFCE Linux LightDM|12/05/2025|16/06/2025|4|<http://bit.ly/4mlKLzd> |
-|Solución de errores en la interfaz, incluido el idioma|13/05/2025|16/06/2025|7|<https://github.com/MRodzDirect/Practicum1.2-MSP/blob/main/Bitacoras/Actividades/Instalacion%20-%20Javier%20M.%20(Manjaro).md> |
-|Capacitación de cursos para la ejecución en Angular CLI (cursando)|16/05/2025|.. /.. /2025|20|<https://utpl.udemy.com/course/angular-fernando-herrera/learn/lecture/48743973> |
-|Instalación de paquetes y extensiones |11/06/2025|11/06/2025|1|<http://bit.ly/3UgHipo> |
-|Instalación de programas para el curso por medio de la terminal Xfce|11/06/2025|12/06/2025|2|<p><https://tinyurl.com/mr3mxcee></p><p><https://tinyurl.com/yc2975u9></p><p><https://tinyurl.com/4d3su5p6> </p><p><https://tinyurl.com/5n6zuamc> </p>|
-|Primeras prácticas en Angular (ejercicios)|13/06/2025|15/06/2025|5|<https://tinyurl.com/5a323sse> |
-|Problema al conectarse a una red de internet|13/06/2025|14/06/2025|2|<https://tinyurl.com/y3sr9w66> |
-|Uso de la herramienta Figma (curso)|20/06/2025|27/06/2025|4|<https://youtu.be/VdS9ZGHHXWQ?si=jKZwSzHWl7iWjvOq> |
-|Creación del prototipado del Formulario MSP-008 en Figma|<p>17/06/2025</p><p></p>|<p>07/07/2025</p><p></p>|6|<https://tinyurl.com/mwktmdt7>|
-|Creación del formulario MPS-008 en forma digital|14/06/2025|15/06/2025|8|<https://tinyurl.com/3ahh2pxr> |
-|Colapso constante del entorno de trabajo VS Code en la programación de la página web|27/06/2025|30/06/2025|3|<https://tinyurl.com/4djsrbbk> |
-|Reinstalación de VS Code |27/06/2025|27/06/2025|1.5|<https://tinyurl.com/3rrhvdkc> |
-|Errores ortográficos en los archivos del Formulario (Identificación establecimiento)|01/06/2025|02/06/2025|2.5|<https://tinyurl.com/4ydxv2av> |
-|` `Despliegue del modelo final en HTML|01/07/2025|07/07/2025|2|[Abrir Formulario MSP-008](C:\Users\Javier Montaño\Downloads\Form008.html)|
-|Documentación del trabajo. |||2|<https://github.com/MRodzDirect/Practicum1.2-MSP/blob/main/Bitacoras/Actividades> |
+Here is the combined table with all activities, dates, hours, and annex links formatted for importing into Word. The table includes all items you listed with summed and consistent formatting:
+
+| Actividad                                                    | Fecha inicio      | Fecha fin         | Horas | Nro. Anexo                                                   |
+| ------------------------------------------------------------ | ----------------- | ----------------- | ----- | ------------------------------------------------------------ |
+| Limpieza y respaldo del disco duro y liberación de espacio en memoria | 29/05/2025        | 04/06/2025        | 3     | https://bit.ly/44Tf9tv                                       |
+| Instalación y configuración de los Sistemas Operativos (Windows, Manjaro Linux) | 30/05/2025        | 05/06/2025        | 6     | http://bit.ly/3Gww4Kn, https://tinyurl.com/bdhvxwct          |
+| Actualización, instalación y configuración de Windows 11 Home a Windows 11 Pro | 30/05/2025        | 06/06/2025        | 6     | http://bit.ly/4lXyqAL                                        |
+| Problema con la interfaz de Manjaro XFCE Linux LightDM       | 12/05/2025        | 16/06/2025        | 4     | http://bit.ly/4mlKLzd                                        |
+| Solución de errores en la interfaz, incluido el idioma       | 13/05/2025        | 16/06/2025        | 7     | [GitHub Installation Manjaro](https://github.com/MRodzDirect/Practicum1.2-MSP/blob/main/Bitacoras/Actividades/Instalacion - Javier M. (Manjaro).md) |
+| Primera reunión de coordinación/planificación para el proyecto MSP | 01/05/2025 15:30H | 01/05/2025 18:30H | 3     | -                                                            |
+| Capacitación de cursos para la ejecución en Angular CLI (cursando) | 16/05/2025        | .. /.. /2025      | 20    | [https://utpl.udemy.com/course/angular-fernando-herrera](https://utpl.udemy.com/course/angular-fernando-herrera/learn/lecture/48743973) |
+| Segunda reunión de coordinación/planificación en la Universidad, solución de errores | 23/05/2025 11:00H | 23/05/2025 12:30H | 1.5   | -                                                            |
+| Instalación de paquetes y extensiones                        | 11/06/2025        | 11/06/2025        | 1     | http://bit.ly/3UgHipo                                        |
+| Instalación de programas para el curso por medio de la terminal Xfce | 11/06/2025        | 12/06/2025        | 2     | https://tinyurl.com/mr3mxcee, https://tinyurl.com/yc2975u9, https://tinyurl.com/4d3su5p6, https://tinyurl.com/5n6zuamc |
+| Primeras prácticas en Angular (ejercicios)                   | 13/06/2025        | 15/06/2025        | 5     | https://tinyurl.com/5a323sse                                 |
+| Problema al conectarse a una red de internet                 | 13/06/2025        | 14/06/2025        | 2     | https://tinyurl.com/y3sr9w66                                 |
+| Uso de la herramienta Figma (curso)                          | 20/06/2025        | 27/06/2025        | 6     | https://youtu.be/VdS9ZGHHXWQ?si=jKZwSzHWl7iWjvOq             |
+| Creación del prototipado del Formulario MSP-008 en Figma     | 17/06/2025        | 07/07/2025        | 8     | https://tinyurl.com/mwktmdt7                                 |
+| Creación del formulario MPS-008 en forma digital             | 14/06/2025        | 15/06/2025        | 12    | https://tinyurl.com/3ahh2pxr                                 |
+| Colapso constante del entorno de trabajo VS Code en la programación de la página web | 27/06/2025        | 30/06/2025        | 3     | https://tinyurl.com/4djsrbbk                                 |
+| Reinstalación de VS Code                                     | 27/06/2025        | 27/06/2025        | 1.5   | https://tinyurl.com/3rrhvdkc                                 |
+| Errores ortográficos en los archivos del Formulario (Identificación establecimiento) | 01/06/2025        | 02/06/2025        | 2.5   | https://tinyurl.com/4ydxv2av                                 |
+| Despliegue del modelo final en HTML                          | 01/07/2025        | 07/07/2025        | 2     | [file:///C:/Users/Javier%20Monta%C3%B1o/Downloads/Form008.html](https://www.perplexity.ai/search/sum-the-hours-there-actividadf-tsFe_BC.SKintr_ZqNtXMA) |
+| Documentación del trabajo                                    | -                 | -                 | 2     | https://github.com/MRodzDirect/Practicum1.2-MSP/blob/main/Bitacoras/Actividades |
+
+## **97.5 horas**
 
 
 

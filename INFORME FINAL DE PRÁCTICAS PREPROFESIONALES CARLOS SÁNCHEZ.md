@@ -24,7 +24,7 @@ En segundo plano, están las capacitaciones técnicas, entre las que se encuentr
 
 El total de horas dedicadas a la fecha es de **96 horas**, sumando el trabajo real invertido en instalaciones, resolución de problemas y el avance casi completo en los cursos de Udemy. 
 
---- 
+---
 ## 2. Actividades Grupales
 
 Las siguientes actividades fueron realizadas en conjunto con el equipo de desarrollo.
@@ -55,6 +55,8 @@ Tuvimos una capacitacion de forma autodidacta siguiendo los cursos en Udemy, esp
 |Capacitación extra: Notas que tomo sobre el curso en Notion:    |11/06/2025|18/07/2025|8|https://colossal-parent-f2f.notion.site/SPRING-BOOT-1fd788962cf58095a48ae5831e9e8b8e|
 | Implementación de API REST               | [05/07/2025]     | [../07/2025]  | 5       | [Ver repositorio de Spring Boot](https://github.com/carloszealand2005/Spring-Boot-Projects) |
 | Uso de herramientas de control de versiones (Git, GitHub) | [03/05/2025]     | [31/05/2025]  | 12      | Capacitación haciendo curso de Git & GitHub en Udemy:   ![certificado_git](https://github.com/user-attachments/assets/2e08f20d-2105-4a1b-aa97-b9e72086a3a6) |
+
+**Total: 97 horas**
 
 ## 4. Anexos y Evidencias
 
